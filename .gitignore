@@ -2,3 +2,13 @@
 .vscode/
 __pycache__/
 *.pyc
+
+# macOS
+.DS_Store
+
+# Large binary/archive files — keep out of git
+*.zip
+*.exe
+*.bin
+*.bin_rep
+Docs/2.8inch_IPS_ESP32-S3_ES3C28P_ES3N28P_Quick_Start/
